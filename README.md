@@ -9,3 +9,7 @@
 # Apos isso, faça a inserção do codigo abaixo conforme a imagem do repositorio *"imagem_config_package.png"*
 
     "type": "module"
+
+# Apos isso, abrir o terminal do visual studio code ( https://code.visualstudio.com/download ) e digitar o codigo abaixo
+
+    node index.js
