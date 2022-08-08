@@ -4,4 +4,3 @@ npm i node-fetch -> https://www.npmjs.com/node-fetch
 npm i readline -> https://www.npmjs.com/package/readline
 npm i fs -> https://www.npmjs.com/package/fs
 npm i open -> https://www.npmjs.com/package/open
-
