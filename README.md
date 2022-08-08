@@ -6,4 +6,6 @@ npm i puppeteer -> https://www.npmjs.com/package/puppeteer <br>
 npm i node-fetch -> https://www.npmjs.com/node-fetch <br>
 npm i readline -> https://www.npmjs.com/package/readline <br>
 npm i fs -> https://www.npmjs.com/package/fs <br>
-npm i open -> https://www.npmjs.com/package/open <br>
+npm i open -> https://www.npmjs.com/package/open <br><br><br>
+
+Apos isso, faça a inserção do codigo "type": "module" conforme a imagem no repositorio "imagem_config_package.png"
