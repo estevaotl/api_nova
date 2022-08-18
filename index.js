@@ -256,11 +256,11 @@ const variavelSaida = 0;
 
         const htmlCompleto = htmlInicial + bodyHTML + footerHTML;
 
-        fs.writeFileSync('./writefile.html', htmlCompleto);
+        fs.writeFileSync(`./${urlSite}.html`, htmlCompleto);
 
         console.log('File has been written');
     } catch ( err ) {     
-        console.log(err.message)
+
         const htmlInicial = 
         `
             <!DOCTYPE html>
@@ -290,7 +290,7 @@ const variavelSaida = 0;
         
         const htmlCompleto = htmlInicial + bodyHTML;
 
-        fs.writeFileSync('./writefile.html', htmlCompleto);
+        fs.writeFileSync(`./${urlSite}.html`, htmlCompleto);
 
         console.log('File has been written');
     } finally {        
@@ -302,7 +302,7 @@ const variavelSaida = 0;
             await browser2.close();        
         }
 
-        await open('./writefile.html');
+        await open(`./${urlSite}.html`);
 
         let saida = 1;
         while( saida != variavelSaida ) {
@@ -399,4 +399,3 @@ const variavelSaida = 0;
                 break;
         }
     }
-
