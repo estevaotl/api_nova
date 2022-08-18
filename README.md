@@ -1,3 +1,6 @@
+# Realizar download do NODEJS ( Prefira a versão LTS )
+    https://nodejs.org/en/download/
+
 # Ao clonar o repositorio, rodar os comandos abaixo: <br>
 * *npm init* <br>
 * *npm i puppeteer* -> site para conferencia ( https://www.npmjs.com/package/puppeteer ) <br>
