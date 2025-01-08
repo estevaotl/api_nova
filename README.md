@@ -7,7 +7,7 @@
 
 ## Tecnologias Utilizadas
 - Javascript
-- Puppeterr para captura das informações
+- Puppeteer para captura das informações
 
 ### Procedimento para utilização
 
